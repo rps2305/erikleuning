@@ -6,7 +6,7 @@ export default defineNuxtConfig({
       fallback: '404.html',
     },
     
-    target: "static", // and static, nuxt generates a SPA
+    
     router: {
       base: '/erikleuning/',
     },
