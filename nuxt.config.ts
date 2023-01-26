@@ -7,6 +7,9 @@ export default defineNuxtConfig({
     },
     ssr: false, //When false
     target: "static", // and static, nuxt generates a SPA
+    router: {
+      base: '/erikleuning/',
+    },
     postcss: {
         plugins: {
           tailwindcss: {},
