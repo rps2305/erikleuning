@@ -38,7 +38,7 @@ Theoretische kennis vergroot door diverse trainingen en cursussen, waaronder BHV
 
 Geen verzorging/verpleging.
 
-Image
+Image 
 Erik Leuning portret
 OVER MIJ
 Mijn naam is Erik Leuning en ik ben in 1964 geboren in Hengelo. In 2002 ben ik verhuisd naar Oldenzaal en daar woon ik nog steeds met veel plezier. 
