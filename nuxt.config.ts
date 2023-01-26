@@ -14,5 +14,8 @@ export default defineNuxtConfig({
           autoprefixer: {},
         },
       },
+      app: {
+        baseURL: "/erikleuning/"
+    },
 
 })
