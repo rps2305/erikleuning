@@ -6,10 +6,7 @@ export default defineNuxtConfig({
       fallback: '404.html',
     },
     
-    
-    router: {
-      base: '/erikleuning/',
-    },
+
     postcss: {
         plugins: {
           tailwindcss: {},
