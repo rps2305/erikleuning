@@ -15,7 +15,7 @@ export default defineNuxtConfig({
         },
       },
       app: {
-        baseURL: "/erikleuning/"
+        baseURL: "./"
     },
 
 })
