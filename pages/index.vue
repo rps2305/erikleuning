@@ -42,7 +42,7 @@
               </transition>
             </Popover>
 
-            <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Pricing</a>
+            <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Pricing!</a>
             <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Partners</a>
             <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900">Company</a>
           </PopoverGroup>
