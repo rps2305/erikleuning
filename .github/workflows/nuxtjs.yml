@@ -20,9 +20,3 @@ jobs:
           cache-dependency-path: "./package-lock.json"
       - run: npm install
       - run: npm run generate
-      - uses: JamesIves/github-pages-deploy-action@v4.4.0
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: main
-          FOLDER: '.output/public'
-          CLEAN: true
