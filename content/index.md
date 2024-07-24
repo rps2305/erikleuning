@@ -2,6 +2,19 @@
 title: 'Erik Leuning - Begeleiding en Ondersteuning'
 description: 'Erik Leuning biedt individuele begeleiding en ondersteuning aan kwetsbare jongeren en jongvolwassenen in Oldenzaal en omgeving. Focus op zelfredzaamheid en dagelijkse vaardigheden.'
 ---
+::myAlert
+This is an Alert
+::
+
+Hello, this is a [Markdown]{.px-1 .bg-blue-200 .rounded-lg} file!
+
+::div{.w-full .bg-green-200 .p-4}
+Another way to use it!
+::
+
+> Block quote
+
+<article class="prose prose-slate">> Block quote</article>
 
 # Welkom bij Erik Leuning
 
@@ -14,6 +27,13 @@ Staat voor individuele begeleiding van een specifieke hulpvraag; over het algeme
 Begeleiding vanuit PGB en ZIN en particulier; ook in te huren door instellingen.
 
 Aangesloten bij Coöperatie Zorgondernemers Twente
+
+  ```js [file.js]{4-6,7} meta-info=val
+  export default () => {
+    console.log('Code block')
+  }
+  ```
+
 
 Kerngedachte: Samenwerken aan het verbeteren van de basisvaardigheden voor de dagelijkse bezigheden.
 
