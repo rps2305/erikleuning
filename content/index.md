@@ -1,3 +1,8 @@
+---
+title: 'Erik Leuning - Begeleiding en Ondersteuning'
+description: 'Erik Leuning biedt individuele begeleiding en ondersteuning aan kwetsbare jongeren en jongvolwassenen in Oldenzaal en omgeving. Focus op zelfredzaamheid en dagelijkse vaardigheden.'
+---
+
 # Welkom bij Erik Leuning
 
 ![pexels-pixabay-220759.jpg](/pexels-pixabay-220759.jpg)

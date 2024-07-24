@@ -9,7 +9,8 @@ export default defineNuxtConfig({
     "nuxt-schema-org",
     "nuxt-og-image",
     "@nuxt/image",
-    "@nuxtjs/robots"
+    "@nuxtjs/robots",
+    "@nuxtjs/mdc"
   ],
 
   routeRules: {
@@ -19,6 +20,10 @@ export default defineNuxtConfig({
   tailwindcss: {
     viewer: true,
   },
-
+  content: {
+    experimental: {
+      search: true,
+    }
+  },
   compatibilityDate: '2024-07-24'
 })
