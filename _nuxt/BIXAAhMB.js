@@ -1,1 +1,0 @@
-import{q as r,f as t,g as o,C as s,h as n}from"./BlysPrL3.js";const a={},c={class:"bg-green-100 border-l-4 border-green-500 text-green-700 p-4",role:"alert"},l=n("p",{class:"font-bold"},"Simple Alert",-1);function d(e,_){return t(),o("div",c,[l,s(e.$slots,"default")])}const i=r(a,[["render",d]]);export{i as default};
