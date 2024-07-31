@@ -24,8 +24,6 @@ A quick brown fox jumps over the lazy dog.
 
 A quick brown fox jumps over the lazy dog.
 
----
-
 ## Paragraph
 
 A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog.
@@ -46,12 +44,12 @@ List
 
 Unordered list
 
-	- A quick brown fox jumps over the lazy dog
-	- Another quick brown fox jumps over the lazy dog
-	- Yet another quick brown fox jumps over the lazy dog
+- A quick brown fox jumps over the lazy dog
+- Another quick brown fox jumps over the lazy dog
+- Yet another quick brown fox jumps over the lazy dog
 
 Ordered list
 
-	1.	A quick brown fox jumps over the lazy dog
-	2.	Another quick brown fox jumps over the lazy dog
-	3.	Yet another quick brown fox jumps over the lazy dog
+1.	A quick brown fox jumps over the lazy dog
+2.	Another quick brown fox jumps over the lazy dog
+3.	Yet another quick brown fox jumps over the lazy dog
