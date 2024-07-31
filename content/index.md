@@ -4,7 +4,6 @@ description: 'Erik Leuning biedt individuele begeleiding en ondersteuning aan kw
 ---
 
 # Welkom bij Erik Leuning
-
 ![pexels-pixabay-220759.jpg](/pexels-pixabay-220759.jpg)
 
 ## Erik Leuning - Begeleiding en Ondersteuning
@@ -97,3 +96,13 @@ Ik wil dan ook streven naar zorg op maat, met een gezamenlijk gedragen einddoel 
 ## Werkgebied
 
 Ik wil mijn werkzaamheden uit gaan voeren binnen een straal van ongeveer 50 km, vanaf Oldenzaal.
+
+::twHome1
+## Werkgebied
+
+#description
+Ik wil mijn werkzaamheden uit gaan voeren binnen een straal van ongeveer 50 km, vanaf Oldenzaal.
+
+#image
+![pexels-oleksandr-pidvalnyi-1172253.jpg](/pexels-oleksandr-pidvalnyi-1172253.jpg)
+::
